@@ -1,0 +1,27 @@
+How to launch swi-prolog on command line?
+Answer= sudo apt-add-respository ppa:swi prolog/stable
+	sudo apt-get update
+	sudo apt-get install swi-prolog
+What is the extension of a prolog Knowledge Base?
+Answer= Knowledge base and prolog programming is all about writing knowledge bases and prolog program simply are kanowlegde base.
+How to load a knowledge base in prolog?
+Answer= Download the knowlede bases kb1.p1,kb2.p1 and kb3.p1 to download  right click on the followings links and choosen save link.
+How to exit a prolog session?
+Answer=  Halt/0
+How to get help on a topic from within prolog?
+Answer= SWI-prolog has built in manaual, just like in unix. 
+What is an atom?
+Answer= The smallest particle of a chemical element.
+What is a term?
+Answer= Fixed period for which a loan, insurance policy.
+What is functor?
+Answer= A functor is a map between categories and considered in algebaric topology.
+What are complex terms?
+Answer= A complex word is a word made up of two or more morphemes.
+What is predicate?
+Answer= The predicate of a sentence is the part that modifies the subjects in some way.
+What is arity of predicate?
+Answer= The arity of a relation is the dimension of the domain in the corresponding cartesian product.
+What is unification?
+Answer= Unification is an algorithmic process of solving equation between symbolic expressions.
+
